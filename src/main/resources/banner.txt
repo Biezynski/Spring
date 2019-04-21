@@ -1,0 +1,1 @@
+Próba stworzenia aplikacji bankowej na zaliczenie przedmiotu java wykorzystujaca testy jednostkowe JUNIT (BiezynskiBank)

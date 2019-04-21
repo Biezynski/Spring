@@ -1,0 +1,1 @@
+Aplikacja wykorzystujaca framework Spring
